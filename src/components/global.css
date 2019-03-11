@@ -1,3 +1,43 @@
 body {
   background: #f3f3f3;
 }
+
+.tools {
+    display: block;
+  }
+.tools li {
+  margin-bottom: 1rem;
+  list-style-type: none;
+}
+.tools li , .tools div{
+  display: block;
+  text-align: center;
+}
+.rank-label {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: -11px;
+  span {
+    font-weight: bold;
+    font-size: 1.4rem;
+  }
+}
+  .rank-ctr {
+    overflow: hidden;
+    border-radius: 15px;
+    height: 7px;
+    display: flex;
+    background: rgba(0,0,0,0.2);
+  }
+
+  @media only screen and (min-width: 650px) {
+    .tools {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .tools div {
+        flex: 0 0 45%;
+    }
+  }
