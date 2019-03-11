@@ -1,0 +1,13 @@
+@mixin atSmall {
+  @media (min-width: 530px) { @content; }
+}
+@mixin atSmallMedium {
+  @media (min-width: 768px) { @content; }
+}
+@mixin atMedium {
+  @media (min-width: 960px) { @content; }
+}
+
+//import style components
+@import 'styles/cards';
+@import 'styles/global';

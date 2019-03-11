@@ -12,6 +12,14 @@ import Tesla from '../../content/assets/tesla01.png';
 
 import { rhythm } from "../utils/typography"
 
+const projects = {
+  simon: {
+    name: 'JavaScript Simon',
+    description: 'Simon Game built using JavaScript, HTML5, and CSS3',
+    tools: ''
+  }
+}
+
 function Portfolio() {
   return (
     <StaticQuery
@@ -27,7 +35,24 @@ function Portfolio() {
           >
             <h2 className='section-header'>Some things i've built.</h2>
             <div className='row-full'>
-              <div className='project-cards-ctr'>
+              <div className='project-cards-ctr col-full'>
+                <article className='project-card'>
+                  <div className='project-card__laytout'>
+                    <div className='project-card__laytout__left'>
+                      <h4>JavaScript Simon</h4>
+                        <div className='project-tools'>
+                          <span>JavaScript</span>
+                          <span>HTML5</span>
+                          <span>CSS3</span>
+                        </div>
+                    </div>
+                    <div className='project-card__laytout__right'>
+                      <p>hey</p>
+                      <p>you</p>
+                    </div>
+                  </div>
+                </article>
+
                 <article className='project-card'>
                   <div className='project-card__laytout'>
                     <div className='project-card__laytout__left'>
@@ -40,21 +65,7 @@ function Portfolio() {
                     </div>
                   </div>
                 </article>
-                <article className='project-card'>
-                  <div className='project-card__laytout'>
-                    <div className='project-card__laytout__left'>
-                      <h4>JavaScript Simon</h4>
-                      <div>
-                        <p>Simon Game built using JavaScript, HTML5, and CSS3</p>
-                        <p>Simon Game built using JavaScript</p>
-                      </div>
-                    </div>
-                    <div className='project-card__laytout__right'>
-                      <p>hey</p>
-                      <p>you</p>
-                    </div>
-                  </div>
-                </article>
+
               </div>
             </div>
           </section>
