@@ -1,7 +1,7 @@
 ---
 title: Why I Blog
 date: "2019-03-05T22:40:32.169Z"
-description: To tell you a little about myself and the reasons why I decided to start blogging.
+description: A little about myself and the reasons why I decided to start blogging.
 ---
 
 

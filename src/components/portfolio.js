@@ -8,17 +8,45 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+
 import Tesla from '../../content/assets/tesla01.png';
+import Simon from '../../content/assets/simon.svg';
+import EliteHemp from '../../content/assets/elite_hemp.svg';
 
 import { rhythm } from "../utils/typography"
 
-const projects = {
-  simon: {
+const projects = [
+  {
+    style: {
+      backgroundImage: 'linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%)'+ ',url(' +EliteHemp+')',
+      color: '#fff',
+    },
+    name: 'Elite Hemp Co.',
+    description: 'Custom Eccommerce WordPress Theme',
+    tools: ['WordPress', 'HTML5', 'CSS3', 'JQuery'],
+    link: 'https://www.hempeliteproducts.com/',
+  },
+  {
+    style: {
+      backgroundImage: 'linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%)'+ ',url(' +Simon+')',
+      color: '#fff',
+    },
     name: 'JavaScript Simon',
-    description: 'Simon Game built using JavaScript, HTML5, and CSS3',
-    tools: ''
+    description: 'Custom Eccommerce WordPress Theme',
+    tools: ['JavaScript', 'HTML5', 'CSS3'],
+    link: 'https://elastic-swirles-31c9b9.netlify.com/',
+  },
+  {
+    style: {
+      backgroundImage: 'url('+Tesla+')',
+    },
+    name: 'Tesla Color Changer',
+    description: 'Custom Eccommerce WordPress Theme',
+    tools: ['JavaScript', 'React', 'HTML5', 'CSS3'],
+    link: 'https://dreamy-liskov-92d0fe.netlify.com/',
   }
-}
+]
+
 
 function Portfolio() {
   return (
@@ -33,39 +61,30 @@ function Portfolio() {
               marginBottom: rhythm(2.5),
             }}
           >
-            <h2 className='section-header'>Some things i've built.</h2>
+            <h2 className='section-header'>Some Things I Have Built</h2>
             <div className='row-full'>
               <div className='project-cards-ctr col-full'>
-                <article className='project-card'>
-                  <div className='project-card__laytout'>
-                    <div className='project-card__laytout__left'>
-                      <h4>JavaScript Simon</h4>
-                        <div className='project-tools'>
-                          <span>JavaScript</span>
-                          <span>HTML5</span>
-                          <span>CSS3</span>
-                        </div>
+                {projects.map(project => (
+                  <article
+                    key={project.name}
+                    className='project-card'
+                    style={project.style}>
+                    <div className='project-card__laytout'>
+                      <div className='project-card__laytout__left'>
+                        <h4>{project.name}</h4>
+                        <p className='project-tools'>
+                        {project.tools.map(tool => (
+                            <span key={tool}>{tool}</span>
+                        ))}
+                      </p>
+                      </div>
+                      <div className='project-card__laytout__right'>
+                        <a target='_blank' href={project.link}>View</a>
+                        {/* <p>you</p> */}
+                      </div>
                     </div>
-                    <div className='project-card__laytout__right'>
-                      <p>hey</p>
-                      <p>you</p>
-                    </div>
-                  </div>
-                </article>
-
-                <article className='project-card'>
-                  <div className='project-card__laytout'>
-                    <div className='project-card__laytout__left'>
-                      <h4>JavaScript Simon</h4>
-                      <p>Simon Game built using JavaScript, HTML5, and CSS3</p>
-                    </div>
-                    <div className='project-card__laytout__right'>
-                      <p>hey</p>
-                      <p>you</p>
-                    </div>
-                  </div>
-                </article>
-
+                  </article>
+                ))}
               </div>
             </div>
           </section>
