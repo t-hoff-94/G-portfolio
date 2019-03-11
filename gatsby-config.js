@@ -3,7 +3,7 @@ module.exports = {
     title: `Tanner Hoffman`,
     author: `Tanner Hoffman`,
     description: `My portfolio using Gatsby Starter Blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://tannerhoffman.space/`,
     social: {
       twitter: `tannerhoffman`,
     },
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/hoff-logo.png`,
       },
     },
     `gatsby-plugin-offline`,
