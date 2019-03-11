@@ -19,15 +19,45 @@ function Portfolio() {
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
-          <div
+          <section
             className='recent-projects'
             style={{
               marginBottom: rhythm(2.5),
             }}
           >
-            <h2>Some things i've built.</h2>
-            <img src={Tesla} />
-          </div>
+            <h2 className='section-header'>Some things i've built.</h2>
+            <div className='row-full'>
+              <div className='project-cards-ctr'>
+                <article className='project-card'>
+                  <div className='project-card__laytout'>
+                    <div className='project-card__laytout__left'>
+                      <h4>JavaScript Simon</h4>
+                      <p>Simon Game built using JavaScript, HTML5, and CSS3</p>
+                    </div>
+                    <div className='project-card__laytout__right'>
+                      <p>hey</p>
+                      <p>you</p>
+                    </div>
+                  </div>
+                </article>
+                <article className='project-card'>
+                  <div className='project-card__laytout'>
+                    <div className='project-card__laytout__left'>
+                      <h4>JavaScript Simon</h4>
+                      <div>
+                        <p>Simon Game built using JavaScript, HTML5, and CSS3</p>
+                        <p>Simon Game built using JavaScript</p>
+                      </div>
+                    </div>
+                    <div className='project-card__laytout__right'>
+                      <p>hey</p>
+                      <p>you</p>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </section>
         )
       }}
     />

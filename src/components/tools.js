@@ -16,7 +16,7 @@ const developSkills = [
 
 const Tools = props => (
   <section>
-    <h3 className='section-header'>Some Tools I Use</h3>
+    <h2 className='section-header'>Some Tools I Use</h2>
     <ul className='tools'>
       <div>
         {developSkills.map(skill => (

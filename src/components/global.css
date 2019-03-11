@@ -1,9 +1,29 @@
+* {
+  box-sizing: border-box;
+}
 body {
-  background: #f3f3f3;
+  /* background: #f3f3f3; */
+}
+a {
+  /* color: #1faaba; */
+}
+.section-header{
+  position: relative;
+  display: inline-block;
+  margin-bottom: 3rem;
+}
+.section-header::before {
+  background: #007acc;
+  content: '';
+  display: inline-block;
+  margin-right: 10px;
+  width: 10px;
+  height: 22px;
 }
 
 .tools {
     display: block;
+    margin-left: 0;
   }
 .tools li {
   margin-bottom: 1rem;
@@ -18,26 +38,79 @@ body {
   justify-content: space-between;
   position: relative;
   bottom: -11px;
-  span {
-    font-weight: bold;
-    font-size: 1.4rem;
+}
+.rank-label span {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.rank-ctr {
+  overflow: hidden;
+  border-radius: 15px;
+  height: 7px;
+  display: flex;
+  background: rgba(0,0,0,0.2);
+}
+
+@media only screen and (min-width: 650px) {
+  .tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .tools div {
+      flex: 0 0 45%;
   }
 }
-  .rank-ctr {
-    overflow: hidden;
-    border-radius: 15px;
-    height: 7px;
-    display: flex;
-    background: rgba(0,0,0,0.2);
-  }
 
-  @media only screen and (min-width: 650px) {
-    .tools {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-    .tools div {
-        flex: 0 0 45%;
-    }
-  }
+.project-card {
+  padding: 10px;
+  display: flex;
+  background: plum;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.25) 6px 8px 20px;
+  min-height: 250px;
+  margin-bottom: 35px;
+}
+.project-card__laytout {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100%;
+  width: 100%;
+}
+.project-card__laytout__left {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 80%;
+  justify-content: space-between;
+}
+.project-card__laytout__right {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 20%;
+  justify-content: space-between;
+}
+.project-card__laytout__left p, .project-card__laytout__left h4, .project-card__laytout__right p {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // */

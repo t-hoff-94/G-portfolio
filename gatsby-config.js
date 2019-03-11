@@ -64,6 +64,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/hoff-logo.png`,
+        include_favicon: true,
       },
     },
     `gatsby-plugin-offline`,
