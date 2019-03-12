@@ -91,7 +91,7 @@ a {
         -ms-flex: 0 0 45%;
             flex: 0 0 45%; } }
 
-@media (min-width: 530px) {
+@media (min-width: 700px) {
   .project-cards-ctr {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -103,7 +103,6 @@ a {
             justify-content: space-between; } }
 
 .project-card {
-  background-image: url("../../content/assets/elite_hemp-logo.svg");
   background-size: cover;
   padding: 10px;
   display: -webkit-box;
@@ -114,7 +113,7 @@ a {
           box-shadow: rgba(0, 0, 0, 0.25) 6px 8px 20px;
   min-height: 250px;
   margin-bottom: 35px; }
-  @media (min-width: 530px) {
+  @media (min-width: 700px) {
     .project-card {
       -webkit-box-flex: 0;
           -ms-flex: 0 0 48%;

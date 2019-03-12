@@ -84,7 +84,7 @@ left: 50%;
   }
 }
 .project-cards-ctr {
-  @include atSmall {
+  @include atSmallMedium {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -100,7 +100,7 @@ left: 50%;
   box-shadow: rgba(0, 0, 0, 0.25) 6px 8px 20px;
   min-height: 250px;
   margin-bottom: 35px;
-  @include atSmall {
+  @include atSmallMedium {
     flex: 0 0 48%;
   };
 }
