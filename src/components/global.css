@@ -183,4 +183,10 @@ a {
 .project-card__laytout__left p, .project-card__laytout__left h4, .project-card__laytout__right p {
   margin: 0; }
 
+footer {
+  border-top: 2px solid #222;
+  margin-top: 3rem; }
+  footer .socials {
+    list-style-type: none; }
+
 /* // */

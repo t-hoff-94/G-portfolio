@@ -66,6 +66,14 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
+        <div className='contact-section'>
+          <h4>Places you can find me</h4>
+          <ul className='socials'>
+            <li><a target='_blank' href='https://github.com/t-hoff-94'>Github</a></li>
+            <li><a target='_blank' href='https://www.linkedin.com/in/tanner-hoffman-277a4b15b/'>LinkedIn</a></li>
+            <li><a target='_blank' href='https://www.instagram.com/hoff.man_/'>Instagram</a></li>
+          </ul>
+        </div>
           © {new Date().getFullYear()}, Site by Tanner Hoffman.
         </footer>
       </div>
