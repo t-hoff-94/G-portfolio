@@ -19,8 +19,8 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <div
+            className='bio-header'
             style={{
-              display: `flex`,
               marginBottom: rhythm(.5),
             }}
           >
@@ -30,7 +30,7 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 250,
                 borderRadius: `100%`,
               }}
               imgStyle={{
@@ -49,9 +49,9 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/yoga_avatar.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
+        fixed(width: 250, height: 250) {
           ...GatsbyImageSharpFixed
         }
       }

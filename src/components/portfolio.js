@@ -81,7 +81,9 @@ function Portfolio() {
                     style={project.style}>
                     <div className='project-card__laytout'>
                       <div className='project-card__laytout__left'>
-                        <h4>{project.name}</h4>
+                        <h4 className='project-title'>
+                          <a style={{color: project.style.color ? project.style.color : '#222'}} href={project.link}>{project.name}</a>
+                        </h4>
                         <div>
                           <p>{project.description}</p>
                           <p className='project-tools'>
@@ -93,7 +95,7 @@ function Portfolio() {
 
                       </div>
                       <div className='project-card__laytout__right'>
-                        <a target='_blank' href={project.link}>View</a>
+                        <a className='view-project' target='_blank' href={project.link}>View</a>
                       </div>
                     </div>
                   </article>

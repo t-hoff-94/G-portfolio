@@ -29,6 +29,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/Icon.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/Icon-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/layout.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1507,7 +1517,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/localhost:8000",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

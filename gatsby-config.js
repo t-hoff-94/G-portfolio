@@ -61,7 +61,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `grey`,
         display: `minimal-ui`,
         icon: `content/assets/hoff-logo.png`,
         include_favicon: true,

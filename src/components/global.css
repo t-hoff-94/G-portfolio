@@ -6,12 +6,39 @@ body {
   /* background: #f3f3f3; */ }
 
 a {
-  /* color: #1faaba; */ }
+  color: #1E8449; }
+
+.social-header {
+  background: #222;
+  color: #fff;
+  border-bottom: 5px solid #1E8449;
+  margin-bottom: 2rem; }
+  .social-header ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0; }
+    .social-header ul li {
+      margin: 15px 0 0 0;
+      padding: .5rem .75rem;
+      list-style-type: none; }
+      .social-header ul li a {
+        -webkit-box-shadow: none;
+                box-shadow: none; }
+
+@media only screen and (min-width: 500px) {
+  .bio-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; } }
 
 .main-headline::after {
   content: '';
   width: 55%;
-  background: #007acc;
+  background: #1E8449;
   height: 7px;
   position: absolute;
   bottom: -5px;
@@ -34,7 +61,7 @@ a {
   margin-bottom: 3rem; }
 
 .section-header::before {
-  background: #007acc;
+  background: #1E8449;
   content: '';
   display: inline-block;
   margin-right: 10px;
@@ -112,12 +139,25 @@ a {
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 6px 8px 20px;
           box-shadow: rgba(0, 0, 0, 0.25) 6px 8px 20px;
   min-height: 250px;
-  margin-bottom: 35px; }
+  margin-bottom: 35px;
+  -webkit-transition: all .3s;
+  transition: all .3s; }
+  .project-card:hover {
+    -webkit-transform: scale(1.025);
+            transform: scale(1.025); }
+    .project-card:hover .project-title {
+      text-decoration: underline; }
+    .project-card:hover .view-project {
+      background: #145630; }
   @media (min-width: 700px) {
     .project-card {
       -webkit-box-flex: 0;
           -ms-flex: 0 0 48%;
               flex: 0 0 48%; } }
+
+.project-title a {
+  -webkit-box-shadow: none;
+          box-shadow: none; }
 
 .project-tools span {
   background: #e0e0e0;
@@ -170,15 +210,17 @@ a {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between; }
-  .project-card__laytout__right a {
+  .project-card__laytout__right .view-project {
     color: #fff;
-    background: #007acc;
+    background: #1E8449;
     border-radius: 7px;
     -webkit-box-shadow: none;
             box-shadow: none;
     padding: 3px 5px;
     text-decoration: none;
     text-transform: uppercase; }
+    .project-card__laytout__right .view-project:hover {
+      background: #092916; }
 
 .project-card__laytout__left p, .project-card__laytout__left h4, .project-card__laytout__right p {
   margin: 0; }
