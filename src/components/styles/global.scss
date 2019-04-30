@@ -1,15 +1,51 @@
+html {
+  scroll-behavior: smooth;
+}
 * {
   box-sizing: border-box;
 }
 body {
-
+  color: #222;
 }
 a {
   color: #028090;
 }
+.call-to-action {
+  display: flex;
+  width: 100%;
+  flex: 0 0 100%;
+  flex-wrap: wrap;
+}
+.cta-btn{
+  width: 100%;
+  @include atSmall{
+    width: auto;
+  };
+  a {
+    margin-right: 15px;
+    text-decoration: none;
+    padding: .66rem 2rem;
+    color: #fff;
+    border: 2px solid rgba(2,195,153,1);
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    @include atSmall{
+      display: inline;
+    };
+  }
+}
+.my-work {
+  a {
+    background-color: rgba(2,195,153,1);
+  }
+}
+.contact-me {
+  a {
+    background: rgba(2,127,144,1);
+  }
+}
 .social-header {
-  // background: #222;
-  // background: linear-gradient(to right, rgba(5,102,141,1) 0%, rgba(2,127,144,1) 20%, rgba(0,168,151,1) 40%, rgba(2,195,153,1) 63%, rgba(240,243,189,1) 100%);
   color: #fff;
   margin-bottom: 2rem;
   ul {
@@ -62,7 +98,8 @@ left: 50%;
   margin-bottom: 3rem;
 }
 .section-header::before {
-  background: #028090;
+  // background: #028090;
+  background: rgba(2,127,144,1);
   content: '';
   display: inline-block;
   margin-right: 10px;

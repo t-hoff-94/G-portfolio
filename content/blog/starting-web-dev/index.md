@@ -1,12 +1,13 @@
 ---
-title: Why I Blog
-date: "2019-03-05T22:40:32.169Z"
-description: A little about myself and the reasons why I decided to start blogging.
+title: Why I Like Gatsby JS
+date: "2019-04-30T22:40:32.169Z"
+description: Why I Like Gatsby JS, the static site generator and why I chose to use it building my portfolio site.
 ---
 
-# Zak Gordon WordPress Udemy Tutorial
+## The modern static site generator
 
-## Learning the WordPress Template Hierarchy
+If you're interested in JavaScript and modern JavaScript frameworks then you've probably heard of Gatsby. As stated on the official [Gatsby Website](https://www.gatsbyjs.org/), "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps".
+
 
 <img src="./gatsby-icon.png" />
 

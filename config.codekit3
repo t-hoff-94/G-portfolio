@@ -155,10 +155,34 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-11abd1818bc028d342a64a1c4f55cbf8.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-02cc721ce26ff6bf44c3aa390d71697c.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-11abd1818bc028d342a64a1c4f55cbf8-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-02cc721ce26ff6bf44c3aa390d71697c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-135b91fd85064b1e936ec7072885a076.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-135b91fd85064b1e936ec7072885a076-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-1c20a5a850ffc8e8b31ccf8e94a1a69d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-1c20a5a850ffc8e8b31ccf8e94a1a69d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-2417e46064171f2406f61b0805be8f90.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-2417e46064171f2406f61b0805be8f90-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -171,106 +195,26 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-387354728d19b16d2f2aa78de0b45910.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-45f1aa88d6bc698fb971c05a1fd1dc0c.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-387354728d19b16d2f2aa78de0b45910-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-45f1aa88d6bc698fb971c05a1fd1dc0c-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-45ee6542b163cf0fd4851fd966f80c8e.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-69728daa6f20f5ecd0f760155b31b86e.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-45ee6542b163cf0fd4851fd966f80c8e-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-69728daa6f20f5ecd0f760155b31b86e-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-59c8bb4d0043979c53fd760970785683.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-78d0d0ce5edc634df286d9acb5de4e71.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-59c8bb4d0043979c53fd760970785683-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-5f82b083d2df0ea9f3ba189076c49b3b.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-5f82b083d2df0ea9f3ba189076c49b3b-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-622ac8d05205787a569b6942d47cec47.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-622ac8d05205787a569b6942d47cec47-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-67d4fd15b1022733d6fe86a47f5d8b32.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-67d4fd15b1022733d6fe86a47f5d8b32-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-67fd30e2e949248a3647d8b8df84b8d7.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-67fd30e2e949248a3647d8b8df84b8d7-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-6e4238f39d0875a90b63ef543c7816f3.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-6e4238f39d0875a90b63ef543c7816f3-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-717bb966370afd1813cd1690f63886f9.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-717bb966370afd1813cd1690f63886f9-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-73b0bc8ebaaef9954699f70ced8fe904.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-73b0bc8ebaaef9954699f70ced8fe904-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-77146f4b52722989ee244b1fa0cfdbaa.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-77146f4b52722989ee244b1fa0cfdbaa-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-8b6e5dd264bd721306f937ce1558b57a.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-8b6e5dd264bd721306f937ce1558b57a-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-8becd5c9826fd1f66f47142e618dec49.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-8becd5c9826fd1f66f47142e618dec49-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-78d0d0ce5edc634df286d9acb5de4e71-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -283,74 +227,34 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-95ca2460133167acab20cf4320f3e9b8.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-993b2c1d29a551f604fce057535ebe29.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-95ca2460133167acab20cf4320f3e9b8-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-993b2c1d29a551f604fce057535ebe29-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-ad7e36ea4d731dff4f128d2a8de34af3.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-9e3e8cca1d686ac77ea949c63b042c1f.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-ad7e36ea4d731dff4f128d2a8de34af3-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-9e3e8cca1d686ac77ea949c63b042c1f-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-afb7b53a184758830b38d8f9075d62b3.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-a891aace587b9649327c3b2f441a5af8.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-afb7b53a184758830b38d8f9075d62b3-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-a891aace587b9649327c3b2f441a5af8-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-b7daffce3f25223ba3ff94d2b23ffa4e.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c2b2570550843f1571073e1885545bca.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-b7daffce3f25223ba3ff94d2b23ffa4e-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-bda6f46ad24ecb5453e17c84713e918f.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-bda6f46ad24ecb5453e17c84713e918f-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-be8a48118fed9a2f05a93eed43548b9f.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-be8a48118fed9a2f05a93eed43548b9f-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c67aae5cd0992bd2df4a858120a266f7.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c67aae5cd0992bd2df4a858120a266f7-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c8495fe7b0522ce1c010279fd419e58e.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c8495fe7b0522ce1c010279fd419e58e-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-d9836761507c09a9a9c199effdaa3882.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-d9836761507c09a9a9c199effdaa3882-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-c2b2570550843f1571073e1885545bca-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -363,34 +267,10 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-daca58c9aad237121a5d5ff551fc3831.json": {
+	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e55d61ed306aae4dd71a1675176da60a.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-daca58c9aad237121a5d5ff551fc3831-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-ddce66c2bafc3e6ddb403839af7c63da.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-ddce66c2bafc3e6ddb403839af7c63da-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e1699ecf23933e30cfbbb8f01c131cde.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e1699ecf23933e30cfbbb8f01c131cde-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e55e8992f4adf1bf1272d146031a9d85.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e55e8992f4adf1bf1272d146031a9d85-min.json",
+		"oAP": "\/.cache\/caches\/gatsby-transformer-remark\/diskstore-e55d61ed306aae4dd71a1675176da60a-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -399,14 +279,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/.cache\/caches\/gatsby-transformer-sharp\/diskstore-0e5b631531c453ac872d42da617a0f73-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/.cache\/caches\/gatsby-transformer-sharp\/diskstore-c8abb89eb7a801bea300abef3e7434e1.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.cache\/caches\/gatsby-transformer-sharp\/diskstore-c8abb89eb7a801bea300abef3e7434e1-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1043,6 +915,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/content\/assets\/gradient_design_bg.png": {
+		"ft": 32768,
+		"iS": 2102526,
+		"oA": 0,
+		"oAP": "\/content\/assets\/gradient_design_bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/content\/assets\/hoff-logo.png": {
 		"ft": 32768,
 		"iS": 410508,
@@ -1316,8 +1199,8 @@
 		"oA": 0,
 		"oAP": "\/public\/icons\/icon-384x384.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1549,11 +1432,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/401dd\/gatsby-icon.png": {
+		"ft": 32768,
+		"iS": 2170,
+		"oA": 0,
+		"oAP": "\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/401dd\/gatsby-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/7eda3\/gatsby-icon.png": {
 		"ft": 32768,
 		"iS": 2170,
 		"oA": 0,
 		"oAP": "\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/7eda3\/gatsby-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/9342d\/gatsby-icon.png": {
+		"ft": 32768,
+		"iS": 3367,
+		"oA": 0,
+		"oAP": "\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/9342d\/gatsby-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/fde17\/gatsby-icon.png": {
+		"ft": 32768,
+		"iS": 6015,
+		"oA": 0,
+		"oAP": "\/public\/static\/4a9773549091c227cd2eb82ccd9c5e3a\/fde17\/gatsby-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1950,10 +1866,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/public\/static\/d\/10\/path---starting-web-dev-ac-0-43d-flHQlBmCmdHsW4vy77MUn6P2Bzc.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/10\/path---starting-web-dev-ac-0-43d-flHQlBmCmdHsW4vy77MUn6P2Bzc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/1021685552.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/1021685552-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/105\/path---starting-web-dev-ac-0-43d-tJxM48UvnJWn1LdGPobVtpLsEQ.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/105\/path---starting-web-dev-ac-0-43d-tJxM48UvnJWn1LdGPobVtpLsEQ-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/106\/path---index-6a9-yhAykf7lEzf3qb9QUzrd8RZmNg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/106\/path---index-6a9-yhAykf7lEzf3qb9QUzrd8RZmNg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2014,6 +1954,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/170\/path---starting-web-dev-notes-4-f-4-d63-esJbRKfK5PPvjmCAlCw6NCTWsg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/170\/path---starting-web-dev-notes-4-f-4-d63-esJbRKfK5PPvjmCAlCw6NCTWsg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/173\/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2054,6 +2002,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/200\/path---starting-web-dev-ac-0-43d-lewxrmY6AtPNmJBANvOBWWe5VI.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/200\/path---starting-web-dev-ac-0-43d-lewxrmY6AtPNmJBANvOBWWe5VI-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/2065253069.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2078,10 +2034,34 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/228\/path---starting-web-dev-ac-0-43d-QZvXqpzEtztt2hyPo9uriKRd8.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/228\/path---starting-web-dev-ac-0-43d-QZvXqpzEtztt2hyPo9uriKRd8-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/229\/path---adobe-capture-463-381-AES64XLU7fZXjDhKox2i4JTnD4.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/229\/path---adobe-capture-463-381-AES64XLU7fZXjDhKox2i4JTnD4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/23\/path---index-6a9-eeMcRooARaZoE4NAN2vzeiuf8As.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/23\/path---index-6a9-eeMcRooARaZoE4NAN2vzeiuf8As-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/24\/path---learning-the-wp-hierarchy-444-7d7-TcAb8nnJFBzj1FyXdOPNYfBi4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/24\/path---learning-the-wp-hierarchy-444-7d7-TcAb8nnJFBzj1FyXdOPNYfBi4-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2214,6 +2194,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/313\/path---starting-web-dev-ac-0-43d-RQlC6GeO4qsbDKYcoAtWn16Gs.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/313\/path---starting-web-dev-ac-0-43d-RQlC6GeO4qsbDKYcoAtWn16Gs-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/328\/path---starting-web-dev-ac-0-43d-p24upsUguhcq2l8h70jPWTbeTk.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2286,6 +2274,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/380\/path---index-6a9-IP1m3lnk7GcJClC4N0hMLbvWC10.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/380\/path---index-6a9-IP1m3lnk7GcJClC4N0hMLbvWC10-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/388\/path---index-6a9-K56deerEEfLdWMfgcV4uV9hNpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2314,6 +2310,14 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/402\/path---starting-web-dev-ac-0-43d-H9C1O3oGr1j7qzdzckwHTcDE8Hc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/408\/path---index-6a9-cuQGG2fgMWFHslSr6izVaVcMJXo.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/408\/path---index-6a9-cuQGG2fgMWFHslSr6izVaVcMJXo-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2362,6 +2366,22 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/479\/path---starting-web-dev-ac-0-43d-qNPrWUFX8VfY94S5pQsmxcEZ4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/48\/path---learning-the-wp-hierarchy-444-7d7-SJsX2MUBeNXdXi8sdQp8g1leqg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/48\/path---learning-the-wp-hierarchy-444-7d7-SJsX2MUBeNXdXi8sdQp8g1leqg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/481\/path---starting-web-dev-ac-0-43d-QXnnNfzuY2UiTZo9iFqm6vIpmA.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/481\/path---starting-web-dev-ac-0-43d-QXnnNfzuY2UiTZo9iFqm6vIpmA-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2534,6 +2554,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/675\/path---starting-web-dev-ac-0-43d-jLMLdpiXjhaQMwi89WYSkabylQ.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/675\/path---starting-web-dev-ac-0-43d-jLMLdpiXjhaQMwi89WYSkabylQ-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/702\/path---adobe-capture-463-381-OSKUjodH7wrR9HFCWPsJfh48.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2662,10 +2690,26 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/static\/d\/827\/path---starting-web-dev-notes-4-f-4-d63-8I1Q7rGpKvxXr6dFhZ02RyvccuQ.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/827\/path---starting-web-dev-notes-4-f-4-d63-8I1Q7rGpKvxXr6dFhZ02RyvccuQ-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/static\/d\/829\/path---starting-web-dev-ac-0-43d-BfyarNkgJX3BXgOc3MSuAQSCZc.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/829\/path---starting-web-dev-ac-0-43d-BfyarNkgJX3BXgOc3MSuAQSCZc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/832\/path---starting-web-dev-ac-0-43d-pGq8n4aPgLORXsB5zq1ETl2YU.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/832\/path---starting-web-dev-ac-0-43d-pGq8n4aPgLORXsB5zq1ETl2YU-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2802,6 +2846,14 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/public\/static\/d\/951\/path---starting-web-dev-ac-0-43d-B4rpELrMaMZ5xIDeZ68BRAybDyE-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/static\/d\/951\/path---starting-web-dev-notes-4-f-4-d63-ZhuY4MP4GYH5yFCL4PowbzIMrSY.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/static\/d\/951\/path---starting-web-dev-notes-4-f-4-d63-ZhuY4MP4GYH5yFCL4PowbzIMrSY-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1

@@ -71,7 +71,7 @@ function Portfolio() {
               marginBottom: rhythm(2.5),
             }}
           >
-            <h2 className='section-header'>Some Things I Have Built</h2>
+            <h2 id='my-work' className='section-header'>Some Things I Have Built</h2>
             <div className='row-full'>
               <div className='project-cards-ctr col-full'>
                 {projects.map(project => (

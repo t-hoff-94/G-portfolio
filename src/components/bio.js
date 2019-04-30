@@ -37,9 +37,15 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Hey, i'm <strong>{author}</strong>, a Web Designer/ Developer who lives in Salt Lake City and likes to make cool things.
-            </p>
+            <div>
+              <p>
+                Hey, i'm <strong>{author}</strong>, a Web Designer/ Developer who lives in Salt Lake City and likes to make cool things.
+              </p>
+              <div className='call-to-action'>
+                <p className='cta-btn contact-me'><a href="mailto:tannerjhoffman@gmail.com">Contact Me</a></p>
+                <p className='cta-btn my-work'><a href="#my-work">See My Work</a></p>
+              </div>
+            </div>
           </div>
         )
       }}
