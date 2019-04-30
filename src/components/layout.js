@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 import './global.css'
-import Github from '../../content/assets/github_icon.svg'
 import Icon from './Icon'
 
 class Layout extends React.Component {
