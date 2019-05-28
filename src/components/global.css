@@ -22,6 +22,9 @@ a {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap; }
 
+.gatsby-icon {
+  display: none; }
+
 .cta-btn {
   width: 100%; }
   @media (min-width: 530px) {
@@ -41,7 +44,7 @@ a {
         display: inline; } }
 
 .my-work a {
-  background-color: #02c399; }
+  background-color: #111; }
 
 .contact-me a {
   background: #027f90; }

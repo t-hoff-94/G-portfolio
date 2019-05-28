@@ -16,6 +16,7 @@ a {
   flex: 0 0 100%;
   flex-wrap: wrap;
 }
+.gatsby-icon{display: none;}
 .cta-btn{
   width: 100%;
   @include atSmall{
@@ -37,7 +38,7 @@ a {
 }
 .my-work {
   a {
-    background-color: rgba(2,195,153,1);
+    background-color: #111;
   }
 }
 .contact-me {

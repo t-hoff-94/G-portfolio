@@ -1,17 +1,17 @@
 import React from 'react'
 
 const designSkills = [
-  { name: 'WordPress', rank: '80%', background: 'rgba(5,102,141,1)'},
-  { name: 'PHP', rank: '40%', background: 'rgba(5,102,141,1)'},
-  { name: 'Illustrator', rank: '90%', background: 'rgba(5,102,141,1)' },
-  { name: 'PhotoShop', rank: '75%', background: 'rgba(5,102,141,1)'},
+  { name: 'WordPress', rank: '80%', background: '#111'},
+  { name: 'PHP', rank: '40%', background: '#111'},
+  { name: 'Illustrator', rank: '90%', background: '#111' },
+  { name: 'PhotoShop', rank: '75%', background: '#111'},
 ]
 
 const developSkills = [
-  { name: 'HTML5', rank: '85%', background: 'rgba(5,102,141,1)'},
-  { name: 'CSS3', rank: '80%', background: 'rgba(5,102,141,1)'},
-  { name: 'JavaScript', rank: '65%', background: 'rgba(5,102,141,1)'},
-  { name: 'React', rank: '50%', background: 'rgba(5,102,141,1)'},
+  { name: 'HTML5', rank: '85%', background: '#111'},
+  { name: 'CSS3', rank: '80%', background: '#111'},
+  { name: 'JavaScript', rank: '65%', background: '#111'},
+  { name: 'React', rank: '50%', background: '#111'},
 ]
 
 const Tools = props => (
