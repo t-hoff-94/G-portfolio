@@ -13,10 +13,20 @@ import Tesla from '../../content/assets/tesla.png';
 import Simon from '../../content/assets/simon.svg';
 import EliteHemp from '../../content/assets/elite_hemp.svg';
 import Todo from '../../content/assets/todo.svg';
+import FarmToFarm from '../../content/assets/farmtofarm.svg';
 
 import { rhythm } from "../utils/typography"
 
 const projects = [
+  {
+    style: {
+      backgroundImage: 'linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%)'+ ',url(' +FarmToFarm+')'
+    },
+    name: 'Farm to Farm CBD',
+    description: 'Custom Eccommerce WordPress Theme',
+    tools: ['WordPress', 'WooCommerce', 'HTML5', 'CSS3', 'JavaScript'],
+    link: 'https://www.hempeliteproducts.com/',
+  },
   {
     style: {
       backgroundImage: 'linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%)'+ ',url(' +EliteHemp+')',
