@@ -25,7 +25,7 @@ const projects = [
     name: 'Farm to Farm CBD',
     description: 'Custom Eccommerce WordPress Theme',
     tools: ['WordPress', 'WooCommerce', 'HTML5', 'CSS3', 'JavaScript'],
-    link: 'https://www.hempeliteproducts.com/',
+    link: 'https://www.farmtofarmashop.com/',
   },
   {
     style: {
