@@ -14,6 +14,7 @@ import Simon from '../../content/assets/simon.svg';
 import EliteHemp from '../../content/assets/elite_hemp.svg';
 import Todo from '../../content/assets/todo.svg';
 import FarmToFarm from '../../content/assets/farmtofarm.svg';
+import RickMorty from '../../content/assets/rickmorty-01.png';
 
 import { rhythm } from "../utils/typography"
 
@@ -45,6 +46,15 @@ const projects = [
     description: 'Color Picker built with React.',
     tools: ['JavaScript', 'React', 'HTML5', 'CSS3'],
     link: 'https://cranky-stonebraker-44038d.netlify.com/',
+  },
+  {
+    style: {
+      backgroundImage: 'linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%),linear-gradient(to top, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0) 100%)'+ ',url(' +RickMorty+')'
+    },
+    name: 'Rick and Morty API navigator',
+    description: 'User interface for Rick and Morty API, built using Next JS.',
+    tools: ['Next JS', 'React', 'HTML5', 'CSS3', 'JavaScript'],
+    link: 'https://rick-mortynextjs-test-970u8a8sy.now.sh/',
   },
   {
     style: {
