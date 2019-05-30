@@ -10,6 +10,11 @@ body {
 a {
   color: #028090;
 }
+pre {
+    -moz-tab-size:    4; /* Firefox 4+ */
+    -o-tab-size:      4; /* Opera 11.5 & 12.1 only */
+    tab-size:         4; /* Chrome 21+, Safari 6.1+, Opera 15+ */
+}
 .call-to-action {
   display: flex;
   width: 100%;
